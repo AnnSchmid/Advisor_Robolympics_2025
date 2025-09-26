@@ -33,8 +33,8 @@ The goal was to design the **PCB board** and **circuit plan** to support the pro
 ## Files
 
 - **PCB Design**
-  - `pcb/gerber` — Gerber file ready for fabrication  
-  - `pcb/3D_Screenshot*.png` — Screenshots of the PCB 3D model  
+  - `pcb/PCB_Gerber` — Gerber file ready for fabrication  
+  - `pcb/pcb_front.bmp` `pcb/pcb_back.bmp` — Screenshots of the PCB 3D model  
   - `pcb/Advisor_Schematic.pdf` — PDF of the schematic  
 
 - **Circuit Plan**
